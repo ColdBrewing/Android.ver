@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">KNUmap</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_details_header">Details:</string>
+    <string name="image_preview_header">Preview:</string>
+    <string name="loading_message">이미지 업로드 및 정보를 불러오는 중입니다.</string>
+
+    <string name="dialog_select_prompt">Choose a picture</string>
+    <string name="dialog_select_camera">Camera</string>
+    <string name="dialog_select_gallery">Gallery</string>
+
+    <string name="image_picker_error">Something is wrong with that image. Pick a different one please.</string>
+
+    <string-array name="desti">
+        <item>구역 선택</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="zone1">
+        <item>본관(100)</item>
+        <item>대강당(101)</item>
+        <item>DGB문화센터(102)</item>
+        <item>글로벌프라자(103)</item>
+        <item>인문대학(104)</item>
+        <item>영선동(105)</item>
+        <item>인문한국진흥원(106)</item>
+        <item>대학원동(107)</item>
+        <item>학생종합서비스센터(108)</item>
+        <item>도서관 휴게실(109)</item>
+        <item>정보전산원(110)</item>
+        <item>중앙도서관(111)</item>
+        <item>어학교육원(112)</item>
+        <item>향토관(113)</item>
+        <item>첨성관(114)</item>
+        <item>IT융합사업빌딩(115)</item>
+        <item>종합정보센터(116)</item>
+        <item>테크노파크(117)</item>
+        <item>약학대학(118)</item>
+        <item>조형관(119)</item>
+        <item>예술대학(120)</item>
+        <item>조소동(121)</item>
+        <item>문예관(122)</item>
+        <item>차고(123)</item>
+    </string-array>
+
+    <string-array name="zone2">
+        <item>농대1호관(201)</item>
+        <item>농대2호관(202)</item>
+        <item>농대3호관(203)</item>
+        <item>출판부(204)</item>
+        <item>복현회관(205)</item>
+        <item>어린이집(206)</item>
+        <item>생명공학관(207)</item>
+        <item>제1과학관(208)</item>
+        <item>자연과학대학(209)</item>
+        <item>제2과학관(210)</item>
+        <item>국민체육센터(211)</item>
+        <item>제2체육관(212)</item>
+        <item>제1체육관(213)</item>
+        <item>청룡관(214)</item>
+        <item>제1학생회관-백호관(215)</item>
+        <item>학군단(216)</item>
+        <item>생물학관(217)</item>
+        <item>공동실험실습관(218)</item>
+    </string-array>
+
+    <string-array name="zone3">
+        <item>사범대학(301)</item>
+        <item>교육대학원(302)</item>
+        <item>우당교육원(303)</item>
+        <item>제4합동강의동(304)</item>
+        <item>복지관(305)</item>
+        <item>박물관(306)</item>
+        <item>생활과학대학(307)</item>
+        <item>경상대학(308)</item>
+        <item>국제경상관(309)</item>
+        <item>사회과학대학(310)</item>
+        <item>법학전문대학원(311)</item>
+    </string-array>
+
+    <string-array name="zone4">
+        <item>공대2호관(401)</item>
+        <item>공대2A호관(402)</item>
+        <item>P/P구조실습실(403)</item>
+        <item>공대1호관(404)</item>
+        <item>연구실안전관리센터(405)</item>
+        <item>공대9호관(406)</item>
+        <item>화학관(407)</item>
+        <item>공대12호관(408)</item>
+        <item>공대3호관(409)</item>
+        <item>공대6호관(410)</item>
+        <item>공대7호관(411)</item>
+        <item>공대4호관(412)</item>
+        <item>IT대학3호관(413)</item>
+        <item>IT대학4호관(414)</item>
+        <item>IT대학융복합공학관(415)</item>
+        <item>IT대학2호관(416)</item>
+        <item>반도체연구동(417)</item>
+        <item>IT대학1호관(418)</item>
+        <item>공대8호관(419)</item>
+        <item>수의과대학(420)</item>
+        <item>수의과대학부속동물병원(421)</item>
+    </string-array>
+
+    <string-array name="zone5">
+        <item>진리관(501)</item>
+        <item>봉사관(502)</item>
+        <item>화목관(503)</item>
+        <item>긍지관(504)</item>
+        <item>협동관(505)</item>
+        <item>연학관(506)</item>
+        <item>성실관(507)</item>
+        <item>문화관(508)</item>
+        <item>교수아파트(509)</item>
+        <item>변전소(510)</item>
+        <item>창업보육센터(511)</item>
+    </string-array>
+</resources>
